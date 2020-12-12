@@ -1,6 +1,6 @@
 # - Welcome to my profile !
 
-## - I'm always working on projects !
+>I'm always working on projects ! Most of my projects is useless, but you can probably found what you really want!
 
 ![Active](https://img.shields.io/badge/Language-JS%20%2F%20C%23%20%2F%20HTML-blueviolet)
 ![Active](https://img.shields.io/badge/Experience-Average-blue)
